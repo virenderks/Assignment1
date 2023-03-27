@@ -1,0 +1,11 @@
+Assinment 12 Answer 
+Find output of below code:
+int main()
+{
+int x = printf(“ineuron”);
+printf(“%d”,x);
+return 0;
+}
+
+  output is ineuron6
+   he output of the program is "ineuron" followed by the value of x (which is 7), resulting in the output "ineuron6".
